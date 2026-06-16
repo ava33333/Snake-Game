@@ -11,18 +11,18 @@ Key features:
 - - Random apple placement
   - - Score tracking
     - - Game over and restart screen
-     
-      - ## Files
+
+## Files
      
       | File | Description |
       |------|-------------|
       | `snake_game.py` | Final version — fully playable game with pygame |
       | `snake_game_draft.py` | Early draft — initial snake head rendering and movement logic using the `graphics.py` library |
      
-      - ## Dependencies
+## Dependencies
      
-      - - Python 3
-        - - pygame
+   - Python 3
+   - pygame
          
           - Install pygame with:
           - ```
